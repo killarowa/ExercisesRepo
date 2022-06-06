@@ -18,10 +18,4 @@ searchField.SendKeys("QA" + Keys.Enter);
 System.Console.WriteLine("TITLE AFTER SEARCH: " + driver.Title);
 
 
-
-
-
-
-
-
 //driver.Quit();
