@@ -1,4 +1,4 @@
-//Lection: Selenium basics, time:3:28:01
+//Lection: Selenium basics
 using NUnit.Framework;
 using RestSharp;
 using System.Net;
